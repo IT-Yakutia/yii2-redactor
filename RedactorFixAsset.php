@@ -16,6 +16,5 @@ class RedactorFixAsset extends AssetBundle
     ];
     public $depends = [
         'yii\web\YiiAsset',
-        'backend\assets\AppAsset',
     ];
 }
